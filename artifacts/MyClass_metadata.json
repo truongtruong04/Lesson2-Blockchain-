@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "returnTwo",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bài tập 4.sol": "MyClass"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bài tập 4.sol": {
+			"keccak256": "0x01ebbe3055f8a1534e5dffffae039e6640bbe30a487b3f1c337a8511f69c9d74",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0d169a1b0cd1a25ece53b0d40cb9f798e7b85546edef0db8c85bc434cd8bb22d",
+				"dweb:/ipfs/QmTPBvi2nTZaz838oYV3pwiHCFnyZAXe5DyPNiuTf3Dqbn"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "b",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "get_b",
+				"outputs": [
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/bài tập 1/MyContract.sol": "MyContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/bài tập 1/MyContract.sol": {
+			"keccak256": "0x757253e60533c051a10bb92bc729d71c8a0f8f25a309edef73eaff3e77949ad1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7560ba6124d93035f4c7049d57a0aa844e7570d5544fb5add9559dbf51456eea",
+				"dweb:/ipfs/QmSdXr9fD7iLxdA9ay5avZeyhTAFRxAvshMpvdiv2WeKQ7"
+			]
+		}
+	},
+	"version": 1
+}
